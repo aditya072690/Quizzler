@@ -1,7 +1,3 @@
-Certainly! Below is a detailed `About` section for your trivia quiz app project. You can insert this into your README file to provide an overview of the project.
-
----
-
 # Quizzler
 
 ## About
@@ -21,7 +17,7 @@ Welcome to Quizzler, a fun and educational trivia quiz application designed to h
 - **Data Structures**: Utilizing Swift structs to store question data efficiently.
 
 ### How to Use
-1. **Clone the Repository**: Start by cloning the repository to your local machine using `https://github.com/aditya072690/Quizzler.git`.
+1. **Clone the Repository**: Start by cloning the repository to your local machine using `git clone https://github.com/aditya072690/Quizzler.git`.
 2. **Open Xcode**: Launch Xcode and open the cloned project.
 3. **Run the App**: Build and run the app on a simulator or a physical device to see it in action.
 
