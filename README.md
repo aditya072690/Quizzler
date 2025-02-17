@@ -323,18 +323,6 @@ echo 'INSERT-TEST-COMMAND-HERE'
 8. **Review**: Once your PR is reviewed and approved, it will be merged into the main branch. Congratulations on your contribution!
 </details>
 
-<details closed>
-<summary>Contributor Graph</summary>
-<br>
-<p align="left">
-   <a href="https://github.com{/aditya072690/Quizzler/}graphs/contributors">
-      <img src="https://contrib.rocks/image?repo=aditya072690/Quizzler">
-   </a>
-</p>
-</details>
-
----
-
 ##  License
 
 This project is protected under the [SELECT-A-LICENSE](https://choosealicense.com/licenses) License. For more details, refer to the [LICENSE](https://choosealicense.com/licenses/) file.
